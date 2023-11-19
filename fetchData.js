@@ -1,4 +1,4 @@
-function fetchData() {
+export function fetchData() {
     return new Promise((resolve, reject) => {
         // Simulate an async operation (e.g., fetching data from an API)
         setTimeout(() => {
