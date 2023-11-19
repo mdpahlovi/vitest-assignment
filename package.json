@@ -1,0 +1,14 @@
+{
+    "name": "vitest",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/mdpahlovi/vitest-assignment.git",
+    "author": "MD Pahlovi",
+    "license": "MIT",
+    "scripts": {
+        "test": "vitest --reporter verbose"
+    },
+    "devDependencies": {
+        "vitest": "^0.34.6"
+    }
+}
